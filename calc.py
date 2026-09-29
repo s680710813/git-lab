@@ -1,2 +1,1 @@
-def add(a, b):
-    return a + b
+ลบทุกอย่างทิ้งgit checkout -b feature/bad-idea!
